@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+input[type="number"]::-webkit-inner-spin-button{
+    display:none;
+}
+ 
+/* hr {
+    color: grey;
+} */
+
+.form-check-card {
+    padding: 5px;
+}
+#container-card {
+    padding: 0px 500px 0px 0px;
+}
+
+#checkTarjeta {
+    padding: 0px 200px 0px 0px;
+    margin-right: 13px;
+}
+
+i{
+    color: white;
+}
